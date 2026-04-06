@@ -5,6 +5,50 @@ Team Members: Maggie Lam, Gemma Lapins-Silvirs, Pankti Patel, Dhruti Patel, Ksen
 
 ---
 
+### Overview
+
+
+> We were tasked to design and evaluate cost models for Cosmic Quarry Mining Corporation. This space mining company operates across three distinct solar systems, and the project involves four key hazard areas to provide insurance for: equipment failure, cargo loss, workers’ compensation and business interruptions. Considering statistical measures, short and long-term ranges were provided for costs, returns and net revenue alongside recommended product designs tailored to each system's unique risk profiles and specific challenges, while also ensuring the solutions are adaptable to future uncertainty. 
+
+---
+
+### Final Recommendation
+
+---
+
+### Product Design
+
+
+---
+
+### Cost and Pricing Result
+
+
+---
+
+### Risk Assessment 
+
+
+---
+
+### Assumptions 
+
+
+---
+
+### Data and Limitations
+
+
+---
+
+### References
+
+
+---
+
+# (Just In Case)
+
+
 ### Congrats on completing the [2026 SOA Research Challenge](https://www.soa.org/research/opportunities/2026-student-research-case-study-challenge/)!
 
 
