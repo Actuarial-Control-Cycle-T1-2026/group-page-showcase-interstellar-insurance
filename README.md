@@ -32,7 +32,14 @@ Team Members: Maggie Lam, Gemma Lapins-Silvirs, Pankti Patel, Dhruti Patel, Ksen
 ---
 
 ### Cost and Pricing Result
+> **Note:** All modelling was calculated per-hazard, per-system, however the summary above details results on a per-hazard aggregate level.
 
+All four portfolios demonstrate positive profitability, with varying levels of volatility:
+
+- **Business Interruption** generates solid short and long-term net revenue of Đ1.91bn. Note the extremely wide returns range reflects significant volatility embedded in the cost model due to the heavy-tailed distribution.
+- **Cargo Loss** produces the highest numbers in terms of cost and premiums, although net margins and net revenue remain strong at Đ2.25bn.
+- **Equipment Failure** performs strongest, generating highest short-term revenue of Đ6.89bn.
+- **Workers' Compensation** delivers the most stable results, with low but consistent revenue of Đ0.89bn. The tight confidence intervals are supported by diversification across a large workforce, resulting in moderate but reliable profitability.
 
 ---
 
