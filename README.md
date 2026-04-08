@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/FxAEmrI0)
 # SOA Case Study: The Pricing Frontier
 
 Team Members: Maggie Lam, Gemma Lapins-Silvirs, Pankti Patel, Dhruti Patel, Ksenia Sofronova
@@ -33,6 +32,17 @@ Team Members: Maggie Lam, Gemma Lapins-Silvirs, Pankti Patel, Dhruti Patel, Ksen
 
 ### Cost and Pricing Result
 > **Note:** All modelling was calculated per-hazard, per-system, however the summary above details results on a per-hazard aggregate level.
+
+| System | Horizon | Cost (Đ billions) | Return (Đ billions) | Net Revenue (Đ billions) | Loss Ratio |
+|---|---|---|---|---|---|
+| Business Interruption | ST | 2.74 (2.46 – 3.02) | 4.66 (1.92 – 33.04) | 1.91 (1.64 – 2.20) | 58.92% |
+| Business Interruption | LT | 3.19 (2.86 – 3.51) | 5.51 (2.22 – 38.46) | 2.32 (1.90 – 2.55) | 58.92% |
+| Cargo Loss | ST | 8.70 (7.29 – 10.33) | 10.95 (9.18 – 13.04) | 2.25 (1.87 – 2.68) | 79.45% |
+| Cargo Loss | LT | 10.14 (8.50 – 12.04) | 12.76 (10.70 – 15.20) | 2.62 (2.18 – 3.12) | 79.46% |
+| Equipment Failure | ST | 25.91 (24.61 – 27.20) | 32.80 (31.16 – 34.44) | 6.89 (6.55 – 7.24) | 79.0% |
+| Equipment Failure | LT | 29.10 (27.65 – 30.56) | 50.89 (48.35 – 53.33) | 21.79 (20.70 – 22.88) | 57.2% |
+| Workers Compensation | ST | 3.94 (3.42 – 4.49) | 4.83 (4.22 – 5.49) | 0.89 (0.80 – 1.00) | 84.1% |
+| Workers Compensation | LT | 4.99 (4.34 – 5.68) | 6.41 (5.64 – 7.24) | 1.42 (1.30 – 1.55) | 80.1% |
 
 All four portfolios demonstrate positive profitability, with varying levels of volatility:
 
