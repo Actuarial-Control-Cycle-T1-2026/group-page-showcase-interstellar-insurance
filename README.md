@@ -32,6 +32,8 @@ Team Members: Maggie Lam, Gemma Lapins-Silvirs, Pankti Patel, Dhruti Patel, Ksen
 ---
 
 ### Assumptions 
+Several key assumptions shaped the modelling process.
+
 Economic and Projection Assumptions: Simplified and interpretable economic assumptions are applied for projection purposes. Inflation and interest rates are derived from historical data using smoothing and regression approaches where appropriate. Interpolated yield curves are used for longer horizons.
 
 System mapping and exposure: New solar systems are modelled using proxy systems based on qualitative risk similarities. Exposure is also estimated and scaled in certain cases, assuming homogenous risk within each system. 
@@ -43,6 +45,8 @@ Pricing and Risk analysis: premiums are calculated using the standard deviation 
 ---
 
 ### Data and Limitations
+Modelling was done using historical data, qualitative judgements from the Interstellar Mining History and industry benchmarking of numerical and qualitative results.
+
 Historical data availability: Modelling relied heavily on historical data. Where unavailable, such as significant gaps in current exposure data, qualitative judgements and simplified assumptions were applied to create allocation assumptions. 
 
 Data Quality: Missing, misaligned and outlier values were identified in provided datasets, requiring cleaning, truncating or other processes to maintain usability. 
