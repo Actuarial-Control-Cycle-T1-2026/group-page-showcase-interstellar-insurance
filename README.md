@@ -22,7 +22,7 @@ Team Members: Maggie Lam, Gemma Lapins-Silvirs, Pankti Patel, Dhruti Patel, Ksen
 ---
 
 ### Final Recommendation
-
+> Overall, three out of the four hazard areas were proposed as viable risks to insure. Equipment failure and workers’ compensation products were supported fully, both lines of business showing strong and consistent profitability. Capped coverage and targeted exclusions were recommended in terms of business interruption insurance to manage the extreme tail-risk exhibited historically. Cargo loss is not recommended at present due to high severity risk and disproportionate premium requirements, making self-insurance a more viable interim strategy until risk profiles lessen.  
 ---
 
 ### Product Design
@@ -54,6 +54,11 @@ All four portfolios demonstrate positive profitability, with varying levels of v
 ---
 
 ### Risk Assessment 
+Risk analysis was conducted across all solar systems: Helionis Cluster, Bayesia System and Oryn Delta. Each presented distinct and interrelated challenges across hazard areas. Key drivers included radiation exposure, orbital debris, geological instability and communication disruptions. 
+
+Overall, Helionis Cluster was found to be the most stable, followed by the Bayesia System, which presented moderate risk driven by environmental volatility, and finally Oryn Delta carried the highest risk due to harsh physical conditions and frontier expansion operations bringing general uncertainty. 
+
+Scenario analysis shows strong profitability under best and moderate conditions across all products, but in worst case scenarios, significant tail risk emerges, partially for cargo loss. This highlights the need for further risk mitigation strategies, including reinsurance products, and close monitoring of data. 
 
 
 ---
