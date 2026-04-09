@@ -16,13 +16,14 @@ Team Members: Maggie Lam, Gemma Lapins-Silvirs, Pankti Patel, Dhruti Patel, Ksen
 
 ### Overview
 
-
-> We were tasked to design and evaluate cost models for Cosmic Quarry Mining Corporation. This space mining company operates across three distinct solar systems, and the project involves four key hazard areas to provide insurance for: equipment failure, cargo loss, workers’ compensation and business interruptions. Considering statistical measures, short and long-term ranges were provided for costs, returns and net revenue alongside recommended product designs tailored to each system's unique risk profiles and specific challenges, while also ensuring the solutions are adaptable to future uncertainty. 
+We were tasked to design and evaluate cost models for Cosmic Quarry Mining Corporation. This space mining company operates across three distinct solar systems, and the project involves four key hazard areas to provide insurance for: equipment failure, cargo loss, workers’ compensation and business interruptions. Considering statistical measures, short and long-term ranges were provided for costs, returns and net revenue alongside recommended product designs tailored to each system's unique risk profiles and specific challenges, while also ensuring the solutions are adaptable to future uncertainty. 
 
 ---
 
 ### Final Recommendation
-> Overall, three out of the four hazard areas were proposed as viable risks to insure. Equipment failure and workers’ compensation products were supported fully, both lines of business showing strong and consistent profitability. Capped coverage and targeted exclusions were recommended in terms of business interruption insurance to manage the extreme tail-risk exhibited historically. Cargo loss is not recommended at present due to high severity risk and disproportionate premium requirements, making self-insurance a more viable interim strategy until risk profiles lessen.  
+
+Overall, three out of the four hazard areas were proposed as viable risks to insure. Equipment failure and workers’ compensation products were supported fully, both lines of business showing strong and consistent profitability. Capped coverage and targeted exclusions were recommended in terms of business interruption insurance to manage the extreme tail-risk exhibited historically. Cargo loss is not recommended at present due to high severity risk and disproportionate premium requirements, making self-insurance a more viable interim strategy until risk profiles lessen.  
+
 ---
 
 ### Product Design
@@ -54,6 +55,7 @@ All four portfolios demonstrate positive profitability, with varying levels of v
 ---
 
 ### Risk Assessment 
+
 Risk analysis was conducted across all solar systems: Helionis Cluster, Bayesia System and Oryn Delta. Each presented distinct and interrelated challenges across hazard areas. Key drivers included radiation exposure, orbital debris, geological instability and communication disruptions. 
 
 Overall, Helionis Cluster was found to be the most stable, followed by the Bayesia System, which presented moderate risk driven by environmental volatility, and finally Oryn Delta carried the highest risk due to harsh physical conditions and frontier expansion operations bringing general uncertainty. 
@@ -88,6 +90,22 @@ Model limitations: Statistical significance of provided variables was limited, l
 ---
 
 ### References
+
+> Gallagher. (2024). Marine and Cargo Insurance - Understand the Essential Protections. Gallagher. https://www.ajg.com/au/news-and-insights/marine-and-cargo-insurance-understand-the- essential-protections/ 
+icare NSW Calculating the Cost of Your Workers Compensation Premium. Insurance and Care NSW. https://www.icare.nsw.gov.au/employers/premiums/calculating-the-cost-of-your-premium 
+Lynch, R. (2025). Freight Insurance in Australia: What It Covers & How Much It Costs. Couriers and Freight. https://www.couriersandfreight.com.au/blog/freight-insurance-in-australia 
+
+> Mata, A. (2025) Actuarial Pricing Models and Methods: The Complete Guide. MatBlas. https://matblas.com/actuarial-pricing-models-and-methods-the-complete-guide/
+
+> Resources Safety and Health Queensland. (2010, November 10). Severe weather preparedness. Retrieved March 2026, from Resources Safety and Health Queensland: https://www.rshq.qld.gov.au/safety-notices/mines/severe-weather-preparedness#:~:text=Severe%20weather%20event%20warning%20and,to%20a%20place%20of%20safety
+
+> Simplistics (QuantPsych) (2021) Understanding Generalized Linear Models (Logistic, Poisson, etc.). https://youtu.be/SqN-qlQOM5A
+
+> World Bank Group. (2018). Developing Parametric Insurance for Weather Related Risks for Indonesia. World Bank Group.
+
+> Yadav, M., & Roychoudhury, B. (2018). Handling missing values: A study of popular imputation packages in R. Science Direct. https://www.sciencedirect.com/science/article/abs/pii/S0950705118303381?via%3Dihub 
+
+> Zak, S. (2025). Data Mapping Between Systems: Keys, Values, Relationships (with P&C Insurance Examples). RecordLiner. https://recordlinker.com/data-mapping-guide/ 
 
 
 ---
