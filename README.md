@@ -28,11 +28,18 @@ Overall, three out of the four hazard areas were proposed as viable risks to ins
 
 ### Product Design
 
+- Equipment failure: the product is tailored to low-frequency, high-severity events with coverage triggers including mechanical or environmental failures. It is recommended to require maintenance verification and exclude wear and tear, negligence and large-scale systematic events
+
+- Cargo loss: limited coverage is considered, including both deductibles (5%) and caps (10% of cargo value), triggered by damage during specific routes. Exclusions involve non-compliant journeys and high-risk transportation periods. 
+
+- Workers’ Compensation: the recommended product provides complete coverage for work-related injuries, including physical, radiation, and psychological injury. Misconduct, unauthorised activity and non-compliance are excluded from coverage
+
+- Business Interruption: Capped coverage is incorporated in the product, alongside a 12-month indemnity period for interruptions only caused by environmental and supply-chain events. Tight eligibility is designed to manage tail risk and exclude broader systematic risk exposure. 
 
 ---
 
 ### Cost and Pricing Result
-> **Note:** All modelling was calculated per-hazard, per-system, however the summary above details results on a per-hazard aggregate level.
+> **Note:** All modelling was calculated per-hazard, per-system, the summary above details results on a per-hazard aggregate level.
 
 | System | Horizon | Cost (Đ billions) | Return (Đ billions) | Net Revenue (Đ billions) | Loss Ratio |
 |---|---|---|---|---|---|
@@ -72,9 +79,9 @@ Economic and Projection Assumptions: Simplified and interpretable economic assum
 
 System mapping and exposure: New solar systems are modelled using proxy systems based on qualitative risk similarities. Exposure is also estimated and scaled in certain cases, assuming homogenous risk within each system. 
 
-Modelling: Frequency-severity models are assumed for cost modelling across the four hazard areas. For frequency, Negative Binomial or Poisson distributions are used, while severity uses heavy-tailed distributions such as lognormal or spliced distribution models. Monte Carlo simulation approaches are used to estimate aggregate losses; or these 100,000 runs are assumed to be adequate. 
+Modelling: Frequency-severity models are assumed for cost modelling across the four hazard areas. For frequency, Negative Binomial or Poisson distributions are used, while severity uses heavy-tailed distributions such as lognormal or spliced distribution models. Monte Carlo simulation approaches are used to estimate aggregate losses, or these 100,000 runs are assumed to be adequate. 
 
-Pricing and Risk analysis: premiums are calculated using the standard deviation principle reflecting risk appetite, simplifying assumptions surrounding reinsurance and other expense costs. For stress testing and scenario analysis, deterministic shocks are applied to modelling assumptions to assess extreme outcomes without altering the underlying distribution. 
+Pricing and Risk analysis: premiums are calculated using the standard deviation principle, reflecting risk appetite, simplifying assumptions surrounding reinsurance and other expense costs. For stress testing and scenario analysis, deterministic shocks are applied to modelling assumptions to assess extreme outcomes without altering the underlying distribution. 
 
 ---
 
@@ -83,9 +90,9 @@ Modelling was done using historical data, qualitative judgements from the Inters
 
 Historical data availability: Modelling relied heavily on historical data. Where unavailable, such as significant gaps in current exposure data, qualitative judgements and simplified assumptions were applied to create allocation assumptions. 
 
-Data Quality: Missing, misaligned and outlier values were identified in provided datasets, requiring cleaning, truncating or other processes to maintain usability. 
+Data Quality: Missing, misaligned and outlier values were identified in the provided datasets, requiring cleaning, truncating or other processes to maintain usability. 
 
-Model limitations: Statistical significance of provided variables was limited, leading to simplified modelling that indicates need for improved data collection and underwriting reporting. 
+Model limitations: Statistical significance of provided variables was limited, leading to simplified modelling that indicates the need for improved data collection and underwriting reporting. 
 
 ---
 
