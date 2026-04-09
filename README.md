@@ -92,8 +92,10 @@ Model limitations: Statistical significance of provided variables was limited, l
 ### References
 
 > Gallagher. (2024). Marine and Cargo Insurance - Understand the Essential Protections. Gallagher. https://www.ajg.com/au/news-and-insights/marine-and-cargo-insurance-understand-the- essential-protections/ 
-icare NSW Calculating the Cost of Your Workers Compensation Premium. Insurance and Care NSW. https://www.icare.nsw.gov.au/employers/premiums/calculating-the-cost-of-your-premium 
-Lynch, R. (2025). Freight Insurance in Australia: What It Covers & How Much It Costs. Couriers and Freight. https://www.couriersandfreight.com.au/blog/freight-insurance-in-australia 
+
+> icare NSW Calculating the Cost of Your Workers Compensation Premium. Insurance and Care NSW. https://www.icare.nsw.gov.au/employers/premiums/calculating-the-cost-of-your-premium
+
+>Lynch, R. (2025). Freight Insurance in Australia: What It Covers & How Much It Costs. Couriers and Freight. https://www.couriersandfreight.com.au/blog/freight-insurance-in-australia 
 
 > Mata, A. (2025) Actuarial Pricing Models and Methods: The Complete Guide. MatBlas. https://matblas.com/actuarial-pricing-models-and-methods-the-complete-guide/
 
